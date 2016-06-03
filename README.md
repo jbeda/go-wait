@@ -1,1 +1,1 @@
-This is a fork of a utility library from http://github.com/kubernetes/kubernetes/pkg/util/wait/
+This is a fork of a utility library from https://github.com/kubernetes/kubernetes/tree/master/pkg/util/wait
